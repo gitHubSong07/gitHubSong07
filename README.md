@@ -1,15 +1,6 @@
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
- 
-</head>
-<body>
- <h2>HEllo world</h2>
-
-
-
-</body>
-</html>
+# WELCOME  
+## markdown 学习笔记 
+> github是一个代码托管和分享的平台
+> 现在基本学会了github的是用
+> 接下来将要完成**React**的学习 
